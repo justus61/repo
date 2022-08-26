@@ -1,0 +1,8 @@
+Origin: Justus61 Repo
+Label: Justus61 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: I try to make Legacy iOS better ;)
